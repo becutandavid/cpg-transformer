@@ -1,4 +1,4 @@
-name: cpgtransformer2
+name: cpgtransformer
 channels:
   - pytorch
   - conda-forge
